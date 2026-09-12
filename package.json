@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "fastapi": "^0.0.8",
+    "open-webui": "^0.1.125",
+    "requests": "^0.3.0",
+    "uvicorn": "^0.0.1-security",
+    "websockets": "^0.2.0"
+  }
+}
